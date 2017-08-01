@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PeterJiang&#39;s Blog</title>
+	<atom:link href="http://www.peterjiang.me/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.peterjiang.me</link>
+	<description>昼</description>
+	<lastBuildDate>Tue, 05 Aug 2014 16:40:05 +0000</lastBuildDate>
+	<language>zh-cn</language>
+	<sy:updatePeriod>daily</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>Micolog-Python 0.7</generator>
+		<item>
+		<title>PeterJiang&#39;s Blog增加校园网节点</title>
+		<link>http://www.peterjiang.me/2014/08/5/about-cernet.html</link>
+		<comments>http://www.peterjiang.me/2014/08/5/about-cernet.html#comments</comments>
+		<pubDate>Tue, 05 Aug 2014 16:40:05 +0000</pubDate>
+		<dc:creator>ywjnpeter</dc:creator>
+				<category><![CDATA[Tech ]]></category>
+
+
+		<guid isPermaLink="false">http://www.peterjiang.me/?p=4918942560681984</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p>由于服务器及CDN均在国外，导致国内访问本站速度较慢，因此加入一个校园网访问节点。请点击页面导航栏最右方的&ldquo;校园网&rdquo;链接进入。由于线路原因，校园网节点仅能在大陆地区的中国教育和科研计算机网CERNET环境下访问，其他网络环境可能会出错。请根据自己的网络状况选择访问线路。点击导航栏中的&ldquo;Home&rdquo;链接将返回主服务器CDN线路。</p>
+<p>另外，由于镜像的内容有限，若您访问了没有镜像的内容，网站将会自动回到主服务器CDN线路。</p>
+<blockquote>
+<p>校园网节点地址：http://scut.peterjiang.me</p>
+</blockquote>
+
+<h4>相关阅读</h4>
+<ul>
+    
+    <li><a href="http://www.peterjiang.me/contact-me">Contact</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=5745606190432256">¡La Décima!</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=5675469106053120">¡HALA MADRID!</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=40001">关于突破Play Store限制</a></li>
+    
+    <li><a href="http://www.peterjiang.me/mail">邮局</a></li>
+    
+    <li><a href="http://www.peterjiang.me/appt">预约</a></li>
+    
+    <li><a href="http://www.peterjiang.me/http://scut.peterjiang.me">校园网</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=39001">CBS - Elementary每集结尾音乐（部分附下载地址）</a></li>
+    
+    <li><a href="http://www.peterjiang.me/peter-x-lab">X Lab</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=5650456021827584">Google Influential Papers for 2013</a></li>
+    
+</ul>
+<p>本文网址:<a href="http://www.peterjiang.me/2014/08/5/about-cernet.html">http://www.peterjiang.me/2014/08/5/about-cernet.html</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.peterjiang.me/feed/comments</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item><item>
+		<title>Google Influential Papers for 2013</title>
+		<link>http://www.peterjiang.me/?p=5650456021827584</link>
+		<comments>http://www.peterjiang.me/?p=5650456021827584#comments</comments>
+		<pubDate>Wed, 09 Jul 2014 12:49:58 +0000</pubDate>
+		<dc:creator>ywjnpeter</dc:creator>
+				<category><![CDATA[Tech ]]></category>
+
+
+		<guid isPermaLink="false">http://www.peterjiang.me/?p=5650456021827584</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<div class="article-header" style="margin: 0px; outline: none; padding: 0px; display: table; text-align: center; width: 750px; font-family: 'Helvetica Neue Light', HelveticaNeue-Light, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: normal;">
+<h1 class="title entry-title" style="margin: 0px; position: relative; font-size: 20px; font-weight: normal; padding: 0px 40px 0px 0px; color: #333333; width: 709px; display: table-cell; vertical-align: middle;"><a style="color: #333333; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s;" rel="bookmark" href="http://googleresearch.blogspot.com/2014/06/influential-papers-for-2013.html">Influential Papers for 2013</a></h1>
+</div>
+<div class="article-content entry-content" style="margin: 10px auto 5px; outline: none; padding: 0px; clear: both; color: #333333; line-height: 1.4; text-align: justify; font-family: 'Helvetica Neue Light', HelveticaNeue-Light, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><span class="byline-author">Posted by Corinna Cortes and Alfred Spector, Google Research</span>&nbsp;<br /><br />Googlers across the company actively engage with the scientific community by publishing technical papers, contributing open-source packages, working on standards, introducing new APIs and tools, giving talks and presentations, participating in ongoing technical debates, and much more. Our&nbsp;<a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://research.google.com/pubs/papers.html">publications</a>&nbsp;offer technical and algorithmic advances, feature aspects we learn as we develop novel products and services, and shed light on some of the technical challenges we face at Google. Below are some of the especially influential papers co-authored by Googlers in 2013. In the coming weeks we will be offering a more in-depth look at some of these publications.<br /><br /><strong>Algorithms</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41870.pdf">Online Matching and Ad Allocation</a>,&nbsp;<em>by Aranyak Mehta [Foundations and Trends in Theoretical Computer Science]</em><br />Matching is a classic problem with a rich history and a significant impact, both on the theory of algorithms and in practice. There has recently been a surge of interest in the online version of the matching problem, due to its application in the domain of Internet advertising. The theory of online matching and allocation has played a critical role in the design of algorithms for ad allocation. This monograph provides a survey of the key problems and algorithmic techniques in this area, and provides a glimpse into their practical impact.<br /><br /><strong>Computer Vision</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/40814.pdf">Fast, Accurate Detection of 100,000 Object Classes on a Single Machine</a>,&nbsp;<em>by Thomas Dean, Mark Ruzon, Mark Segal, Jonathon Shlens, Sudheendra Vijayanarasimhan, Jay Yagnik [Proceedings of IEEE Conference on Computer Vision and Pattern Recognition]</em><br />In this paper, we show how to use hash table lookups to replace the dot products in a convolutional filter bank with the number of lookups independent of the number of filters. We apply the technique to evaluate 100,000 deformable-part models requiring over a million (part) filters on multiple scales of a target image in less than 20 seconds using a single multi-core processor with 20GB of RAM.<br /><br /><strong>Distributed Systems</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://research.google.com/pubs/pub41318.html">Photon: Fault-tolerant and Scalable Joining of Continuous Data Streams</a>,&nbsp;<em>by Rajagopal Ananthanarayanan, Venkatesh Basker, Sumit Das, Ashish Gupta, Haifeng Jiang, Tianhao Qiu, Alexey Reznichenko, Deomid Ryabkov, Manpreet Singh, Shivakumar Venkataraman [SIGMOD]</em><br />In this paper, we talk about Photon, a geographically distributed system for joining multiple continuously flowing streams of data in real-time with high scalability and low latency. The streams may be unordered or delayed. Photon fully tolerates infrastructure degradation and datacenter-level outages without any manual intervention while joining every event exactly once. Photon is currently deployed in production, processing millions of events per minute at peak with an average end-to-end latency of less than 10 seconds.<br /><br /><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://research.google.com/pubs/pub41684.html">Omega: flexible, scalable schedulers for large compute clusters</a>,&nbsp;<em>by Malte Schwarzkopf, Andy Konwinski, Michael Abd-El-Malek, John Wilkes [SIGOPS European Conference on Computer Systems (EuroSys)]</em><br />Omega addresses the need for increasing scale and speed in cluster schedulers using parallelism, shared state, and lock-free optimistic concurrency control. The paper presents a taxonomy of design approaches and evaluates Omega using simulations driven by Google production workloads.<br /><br /><strong>Human-Computer Interaction</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41645.pdf">FFitts Law: Modeling Finger Touch with Fitts' Law</a>,&nbsp;<em>by Xiaojun Bi, Yang Li, Shumin Zhai [Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI 2013)]</em><br />Fitts&rsquo; law is a cornerstone of graphical user interface research and evaluation. It can precisely predict cursor movement time given an on screen target&rsquo;s location and size. In the era of finger-touch based mobile computing world, the conventional form of Fitts&rsquo; law loses its power when the targets are often smaller than the finger width. Researchers at Google, Xiaojun Bi, Yang Li, and Shumin Zhai, devised finger Fitts&rsquo; law (FFitts law) to fix such a fundamental problem.&nbsp;<br /><br /><strong>Information Retrieval</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://research.google.com/pubs/pub40815.html">Top-k Publish-Subscribe for Social Annotation of News</a>,&nbsp;<em>by Alexander Shraer, Maxim Gurevich, Marcus Fontoura, Vanja Josifovski [Proceedings of the 39th International Conference on Very Large Data Bases]</em><br />The paper describes how scalable, low latency content-based publish-subscribe systems can be implemented using inverted indices and modified top-k document retrieval algorithms. The feasibility of this approach is demonstrated in the application of annotating news articles with social updates (such as Google+ posts or tweets). This application is casted as publish-subscribe, where news articles are treated as subscriptions (continuous queries) and social updates as published items with large update frequency.<br /><br /><strong>Machine Learning</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://research.google.com/pubs/pub41159.html">Ad Click Prediction: a View from the Trenches</a>,&nbsp;<em>by H. Brendan McMahan, Gary Holt, D. Sculley, Michael Young, Dietmar Ebner, Julian Grady, Lan Nie, Todd Phillips, Eugene Davydov, Daniel Golovin, Sharat Chikkerur, Dan Liu, Martin Wattenberg, Arnar Mar Hrafnkelsson, Tom Boulos, Jeremy Kubica [KDD]</em><br />How should one go about making predictions in extremely large scale production systems? We provide a case study for ad click prediction, and illustrate best practices for combining rigorous theory with careful engineering and evaluation. The paper contains a mix of novel algorithms, practical approaches, and some surprising negative results.<br /><br /><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42029.pdf">Learning kernels using local rademacher complexity</a>,&nbsp;<em>by Corinna Cortes, Marius Kloft, Mehryar Mohri [Advances in Neural Information Processing Systems (NIPS 2013)]</em><br />This paper shows how the notion of local Rademacher complexity, which leads to sharp learning guarantees, can be used to derive algorithms for the important problem of learning kernels. It also reports the results of several experiments with these algorithms which yield performance improvements in some challenging tasks.<br /><br /><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://word2vec.googlecode.com/">Efficient Estimation of Word Representations in Vector Space</a>,&nbsp;<em>by Tomas Mikolov, Kai Chen, Greg S. Corrado, Jeffrey Dean [ICLR Workshop 2013]</em><br />We describe a simple and speedy method for training vector representations of words. The resulting vectors naturally capture the semantics and syntax of word use, such that simple analogies can be solved with vector arithmetic. For example, the vector difference between 'man' and 'woman' is approximately equal to the difference between 'king' and 'queen', and vector displacements between any given country's name and its capital are aligned. We provide an open source implementation as well as pre trained vector representations at http://word2vec.googlecode.com<br /><br /><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://research.google.com/pubs/pub40813.html">Large-Scale Learning with Less RAM via Randomization</a>,&nbsp;<em>by Daniel Golovin, D. Sculley, H. Brendan McMahan, Michael Young [Proceedings of the 30 International Conference on Machine Learning (ICML)]</em><br />We show how a simple technique -- using limited precision coefficients and randomized rounding -- can dramatically reduce the RAM needed to train models with online convex optimization methods such as stochastic gradient descent. In addition to demonstrating excellent empirical performance, we provide strong theoretical guarantees.&nbsp;<br /><br /><strong>Machine Translation</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://research.google.com/pubs/pub41651.html">Source-Side Classifier Preordering for Machine Translation</a>,&nbsp;<em>by Uri Lerner, Slav Petrov [Proc. of EMNLP '13]</em><br />When translating from one language to another, it is important to not only choose the correct translation for each word, but to also put the words in the correct word order. In this paper we present a novel approach that uses a syntactic parser and a feature-rich classifier to perform long-distance reordering. We demonstrate significant improvements over alternative approaches on a large number of language pairs.<br /><br /><strong>Natural Language Processing</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/40758.pdf">Token and Type Constraints for Cross-Lingual Part-of-Speech Tagging</a>,&nbsp;<em>by Oscar Tackstrom, Dipanjan Das, Slav Petrov, Ryan McDonald, Joakim Nivre [Transactions of the Association for Computational Linguistics (TACL '13)]</em><br />Knowing the parts of speech (verb, noun, etc.) of words is important for many natural language processing applications, such as information extraction and machine translation. Constructing part-of-speech taggers typically requires large amounts of manually annotated data, which is missing in many languages and domains. In this paper, we introduce a method that instead relies on a combination of incomplete annotations projected from English with incomplete crowdsourced dictionaries in each target language. The result is a 25 percent error reduction compared to the previous state of the art.<br /><br /><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41377.pdf">Universal Dependency Annotation for Multilingual Parsing</a>,&nbsp;<em>by Ryan McDonald, Joakim Nivre, Yoav Goldberg, Yvonne Quirmbach-Brundage, Dipanjan Das, Kuzman Ganchev, Keith Hall, Slav Petrov, Hao Zhang, Oscar Tackstrom, Claudia Bedini, Nuria Bertomeu Castello, Jungmee Lee, [Association for Computational Linguistics]</em><br />This paper discusses a public release of syntactic dependency treebanks (https://code.google.com/p/uni-dep-tb/). Syntactic treebanks are manually annotated data sets containing full syntactic analysis for a large number of sentences (http://en.wikipedia.org/wiki/Dependency_grammar). Unlike other syntactic treebanks, the universal data set tries to normalize syntactic phenomena across languages when it can to produce a harmonized set of multilingual data. Such a resource will help large scale multilingual text analysis and evaluation.<br /><br /><strong>Networks</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41761.pdf">B4: Experience with a Globally Deployed Software Defined WAN</a>,&nbsp;<em>by Sushant Jain, Alok Kumar, Subhasree Mandal, Joon Ong, Leon Poutievski, Arjun Singh, Subbaiah Venkata, Jim Wanderer, Junlan Zhou, Min Zhu, Jonathan Zolla, Urs H&ouml;lzle, Stephen Stuart, Amin Vahdat [Proceedings of the ACM SIGCOMM Conference]</em><br />This paper presents the motivation, design, and evaluation of B4, a Software Defined WAN for our data center to data center connectivity. We present our approach to separating the network&rsquo;s control plane from the data plane to enable rapid deployment of new network control services. Our first such service, centralized traffic engineering allocates bandwidth among competing services based on application priority, dynamically shifting communication patterns, and prevailing failure conditions.<br /><br /><strong>Policy</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42544.pdf">When the Cloud Goes Local: The Global Problem with Data Localization</a>,&nbsp;<em>by Patrick Ryan, Sarah Falvey, Ronak Merchant [IEEE Computer]</em><br />Ongoing efforts to legally define cloud computing and regulate separate parts of the Internet are unlikely to address underlying concerns about data security and privacy. Data localization initiatives, led primarily by European countries, could actually bring the cloud to the ground and make the Internet less secure.<br /><br /><strong>Robotics</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://research.google.com/pubs/pub41434.html">Cloud-based robot grasping with the google object recognition engine</a>,&nbsp;<em>by Ben Kehoe, Akihiro Matsukawa, Sal Candido, James Kuffner, Ken Goldberg [IEEE Int&rsquo;l Conf. on Robotics and Automation]</em><br />What if robots were not limited by onboard computation, algorithms did not need to be implemented on every class of robot, and model improvements from sensor data could be shared across many robots? With wireless networking and rapidly expanding cloud computing resources this possibility is rapidly becoming reality. We present a system architecture, implemented prototype, and initial experimental data for a cloud-based robot grasping system that incorporates a Willow Garage PR2 robot with onboard color and depth cameras, Google&rsquo;s proprietary object recognition engine, the Point Cloud Library (PCL) for pose estimation, Columbia University&rsquo;s GraspIt! toolkit and OpenRAVE for 3D grasping and our prior approach to sampling-based grasp analysis to address uncertainty in pose.&nbsp;<br /><br /><strong>Security, Cryptography, and Privacy</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://research.google.com/pubs/pub41323.html">Alice in Warningland: A Large-Scale Field Study of Browser Security Warning Effectiveness</a>,&nbsp;<em>by Devdatta Akhawe, Adrienne Porter Felt [USENIX Security Symposium]</em><br />Browsers show security warnings to keep users safe. How well do these warnings work? We empirically assess the effectiveness of browser security warnings, using more than 25 million warning impressions from Google Chrome and Mozilla Firefox.<br /><br /><strong>Social Systems</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://www.tomkins-family.com/static/papers/src/WSF+13.pdf">Arrival and departure dynamics in Social Networks</a>,&nbsp;<em>by Shaomei Wu, Atish Das Sarma, Alex Fabrikant, Silvio Lattanzi, Andrew Tomkins [WSDM]</em><br />In this paper, we consider the natural arrival and departure of users in a social network, and show that the dynamics of arrival, which have been studied in some depth, are quite different from the dynamics of departure, which are not as well studied. We show unexpected properties of a node's local neighborhood that are predictive of departure. We also suggest that, globally, nodes at the fringe are more likely to depart, and subsequent departures are correlated among neighboring nodes in tightly-knit communities.<br /><br /><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://research.google.com/pubs/pub41200.html">All the news that's fit to read: a study of social annotations for news reading</a>,&nbsp;<em>by Chinmay Kulkarni, Ed H. Chi [In Proc. of CHI2013]</em><br />As news reading becomes more social, how do different types of annotations affect people's selection of news articles? This crowdsourcing experiment show that strangers' opinion, unsurprisingly, has no persuasive effects, while surprisingly unknown branded companies still have persuasive effects. What works best are friend annotations, helping users decide what to read, and provide social context that improves engagement.<br /><br /><strong>Software Engineering</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41145.pdf">Does Bug Prediction Support Human Developers? Findings from a Google Case Study</a>,&nbsp;<em>by Chris Lewis, Zhongpeng Lin, Caitlin Sadowski, Xiaoyan Zhu, Rong Ou, E. James Whitehead Jr. [International Conference on Software Engineering (ICSE)]</em><br />"Does Bug Prediction Support Human Developers?" was a study that investigated whether software engineers changed their code review habits when presented with information about where bug-prone code might be lurking. Much to our surprise we found out that developer behavior didn't change at all! We went on to suggest features that bug prediction algorithms need in order to fit with developer workflows, which will hopefully result in more supportive algorithms being developed in the future.<br /><br /><strong>Speech Processing</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://research.google.com/pubs/archive/40837.pdf">Statistical Parametric Speech Synthesis Using Deep Neural Networks</a>,&nbsp;<em>by Heiga Zen, Andrew Senior, Mike Schuster [Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)]</em><br />Conventional approaches to statistical parametric speech synthesis use decision tree-clustered context-dependent hidden Markov models (HMMs) to represent probability densities of speech given text. This paper examines an alternative scheme in which the mapping from an input text to its acoustic realization is modeled by a deep neural network (DNN). Experimental results show that DNN-based speech synthesizers can produce more natural-sounding speech than conventional HMM-based ones using similar model sizes.<br /><br /><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41176.pdf">Accurate and Compact Large Vocabulary Speech Recognition on Mobile Devices</a>,&nbsp;<em>by Xin Lei, Andrew Senior, Alexander Gruenstein, Jeffrey Sorensen [Interspeech]</em><br />In this paper we describe the neural network-based speech recognition system that runs in real-time on android phones. With the neural network acoustic model replacing the previous Gaussian mixture model and a compressed language model using on-the-fly rescoring, the word-error-rate is reduced by 27% while the storage requirement is reduced by 63%<br /><br /><strong>Statistics</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://research.google.com/pubs/pub40700.html">Pay by the Bit: An Information-Theoretic Metric for Collective Human Judgment</a>,&nbsp;<em>by Tamsyn P. Waterhouse [Proc CSCW]</em><br />There's a lot of confusion around quality control in crowdsourcing. For the broad problem subtype we call collective judgment, I discovered that information theory provides a natural and elegant metric for the value of contributors' work, in the form of the mutual information between their judgments and the questions' answers, each treated as random variables<br /><br /><strong>Structured Data Management</strong><br /><strong><br /></strong><a style="color: #009eb8; outline: none; text-decoration: none; -webkit-transition: color 0.3s; transition: color 0.3s; display: inline;" href="http://research.google.com/pubs/pub41344.html">F1: A Distributed SQL Database That Scales</a>,&nbsp;<em>by Jeff Shute, Radek Vingralek, Bart Samwel, Ben Handy, Chad Whipkey, Eric Rollins, Mircea Oancea, Kyle Littleﬁeld, David Menestrina, Stephan Ellner, John Cieslewicz, Ian Rae, Traian Stancescu, Himani Apte [VLDB]</em><br />In recent years, conventional wisdom has been that when you need a highly scalable, high throughput data store, the only viable options are NoSQL key/value stores, and you need to work around the lack of transactional consistency, indexes, and SQL. F1 is a hybrid database we built that combines the strengths of traditional relational databases with the scalability of NoSQL systems, showing it's not necessary to compromise on database functionality to achieve scalability and high availability. The paper describes the F1 system, how we use Spanner underneath, and how we've designed schema and applications to hide the increased commit latency inherent in distributed commit protocols.</div>
+<div class="article-content entry-content" style="margin: 10px auto 5px; outline: none; padding: 0px; clear: both; color: #333333; line-height: 1.4; text-align: justify; font-family: 'Helvetica Neue Light', HelveticaNeue-Light, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">Source:&nbsp;http://googleresearch.blogspot.hk/2014/06/influential-papers-for-2013.html</div>
+<div class="article-footer" style="margin: 0px; outline: none; padding: 0px; clear: both; text-align: center; font-family: 'Helvetica Neue Light', HelveticaNeue-Light, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: normal;">
+<div class="publish-info" style="margin: 0px; outline: none; padding: 5px 0px; color: #808080;"></div>
+</div>
+
+<h4>相关阅读</h4>
+<ul>
+    
+    <li><a href="http://www.peterjiang.me/contact-me">Contact</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=5745606190432256">¡La Décima!</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=5675469106053120">¡HALA MADRID!</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=40001">关于突破Play Store限制</a></li>
+    
+    <li><a href="http://www.peterjiang.me/mail">邮局</a></li>
+    
+    <li><a href="http://www.peterjiang.me/appt">预约</a></li>
+    
+    <li><a href="http://www.peterjiang.me/http://scut.peterjiang.me">校园网</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=39001">CBS - Elementary每集结尾音乐（部分附下载地址）</a></li>
+    
+    <li><a href="http://www.peterjiang.me/peter-x-lab">X Lab</a></li>
+    
+    <li><a href="http://www.peterjiang.me/2014/08/5/about-cernet.html">PeterJiang&#39;s Blog增加校园网节点</a></li>
+    
+</ul>
+<p>本文网址:<a href="http://www.peterjiang.me/?p=5650456021827584">http://www.peterjiang.me/?p=5650456021827584</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.peterjiang.me/feed/comments</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item><item>
+		<title>¡La Décima!</title>
+		<link>http://www.peterjiang.me/?p=5745606190432256</link>
+		<comments>http://www.peterjiang.me/?p=5745606190432256#comments</comments>
+		<pubDate>Sun, 25 May 2014 05:17:00 +0000</pubDate>
+		<dc:creator>ywjnpeter</dc:creator>
+				
+
+		<guid isPermaLink="false">http://www.peterjiang.me/?p=5745606190432256</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p style="text-align: center;"><img src="http://www.titularesmadridistas.com/boletin/EIC10UCL14/img/decima_1.jpg" alt="decima" width="600" height="189" /><br />
+<img src="http://www.titularesmadridistas.com/boletin/EIC10UCL14/img/decima_2.jpg" alt="decima" width="600" height="162" /><br />
+<img src="http://www.titularesmadridistas.com/boletin/EIC10UCL14/img/decima_3.jpg" alt="decima" width="600" height="225" /></p>
+
+
+<h4>相关阅读</h4>
+<ul>
+    
+    <li><a href="http://www.peterjiang.me/contact-me">Contact</a></li>
+    
+    <li><a href="http://www.peterjiang.me/peter-x-lab">X Lab</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=5650456021827584">Google Influential Papers for 2013</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=40001">关于突破Play Store限制</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=5675469106053120">¡HALA MADRID!</a></li>
+    
+    <li><a href="http://www.peterjiang.me/appt">预约</a></li>
+    
+    <li><a href="http://www.peterjiang.me/http://scut.peterjiang.me">校园网</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=39001">CBS - Elementary每集结尾音乐（部分附下载地址）</a></li>
+    
+    <li><a href="http://www.peterjiang.me/mail">邮局</a></li>
+    
+    <li><a href="http://www.peterjiang.me/2014/08/5/about-cernet.html">PeterJiang&#39;s Blog增加校园网节点</a></li>
+    
+</ul>
+<p>本文网址:<a href="http://www.peterjiang.me/?p=5745606190432256">http://www.peterjiang.me/?p=5745606190432256</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.peterjiang.me/feed/comments</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item><item>
+		<title>¡HALA MADRID!</title>
+		<link>http://www.peterjiang.me/?p=5675469106053120</link>
+		<comments>http://www.peterjiang.me/?p=5675469106053120#comments</comments>
+		<pubDate>Tue, 29 Apr 2014 21:08:34 +0000</pubDate>
+		<dc:creator>ywjnpeter</dc:creator>
+				<category><![CDATA[Peter's Life ]]></category>
+
+
+		<guid isPermaLink="false">http://www.peterjiang.me/?p=5675469106053120</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p style="text-align: center;"><img class="aligncenter" src="https://farm8.staticflickr.com/7339/14068960254_6fdf76a56f.jpg" alt="final_championsTodos (1)" width="500" height="300" /></p>
+
+<h4>相关阅读</h4>
+<ul>
+    
+    <li><a href="http://www.peterjiang.me/contact-me">Contact</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=5745606190432256">¡La Décima!</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=5650456021827584">Google Influential Papers for 2013</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=40001">关于突破Play Store限制</a></li>
+    
+    <li><a href="http://www.peterjiang.me/mail">邮局</a></li>
+    
+    <li><a href="http://www.peterjiang.me/appt">预约</a></li>
+    
+    <li><a href="http://www.peterjiang.me/http://scut.peterjiang.me">校园网</a></li>
+    
+    <li><a href="http://www.peterjiang.me/?p=39001">CBS - Elementary每集结尾音乐（部分附下载地址）</a></li>
+    
+    <li><a href="http://www.peterjiang.me/peter-x-lab">X Lab</a></li>
+    
+    <li><a href="http://www.peterjiang.me/2014/08/5/about-cernet.html">PeterJiang&#39;s Blog增加校园网节点</a></li>
+    
+</ul>
+<p>本文网址:<a href="http://www.peterjiang.me/?p=5675469106053120">http://www.peterjiang.me/?p=5675469106053120</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.peterjiang.me/feed/comments</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item><item>
+		<title>Antimatter experiment produces first beam of antihydrogen</title>
+		<link>http://www.peterjiang.me/2014/01/22/antimatter-experiment-produces-first-beam-antihydrogen.html</link>
+		<comments>http://www.peterjiang.me/2014/01/22/antimatter-experiment-produces-first-beam-antihydrogen.html#comments</comments>
+		<pubDate>Wed, 22 Jan 2014 13:54:27 +0000</pubDate>
+		<dc:creator>ywjnpeter</dc:creator>
+				<category><![CDATA[Tech ]]></category>
+
+
+		<guid isPermaLink="false">http://www.peterjiang.me/?p=5105021750345728</guid>
+		<description><![CDATA[&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5523/12085855344_8bd0f1994a.jpg&quot; width=&quot;500&quot; height=&quot;332&quot; /&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p style=&quot;text-align: center;&quot;&gt;The ASACUSA experiment at CERN (Image: Yasunori Yamakazi )&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;The ASACUSA experiment at CERN has succeeded for the first time in producing a beam of antihydrogen atoms. &lt;br /&gt;&lt;br /&gt;&lt;点击阅读全文..&gt;&lt;br /&gt;&lt;br /&gt;原文后附果壳网对此的相关报道一篇，参考阅读。]]></description>
+			<content:encoded><![CDATA[<p style="text-align: center;"><img src="https://farm6.staticflickr.com/5523/12085855344_8bd0f1994a.jpg" alt="The ASACUSA experiment at CERN (Image: Yasunori Yamakazi )" width="500" height="332" /></p>
+<p style="text-align: center;">The ASACUSA experiment at CERN (Image: Yasunori Yamakazi )</p>
+<p>The ASACUSA experiment at CERN has succeeded for the first time in producing a beam of antihydrogen atoms. In a paper published today in Nature Communications, the ASACUSA collaboration reports the unambiguous detection of 80 antihydrogen atoms 2.7 metres downstream of their production, where the perturbing influence of the magnetic fields used initially to produce the antiatoms is small. This result is a significant step towards precise hyperfine spectroscopy of antihydrogen atoms.</p>
+<p>Primordial antimatter has so far never been observed in the universe, and its absence remains a major scientific enigma. Nevertheless, it is possible to produce significant amounts of antihydrogen in experiments at CERN by mixing antielectrons (positrons) and low energy antiprotons produced by the Antiproton Decelerator.</p>
+<p>The spectra of hydrogen and antihydrogen are predicted to be identical, so any tiny difference between them would immediately open a window to new physics, and could help in solving the antimatter mystery. With its single proton accompanied by just one electron, hydrogen is the simplest existing atom, and one of the most precisely investigated and best understood systems in modern physics. Thus comparisons of hydrogen and antihydrogen atoms constitute one of the best ways to perform highly precise tests of matter/antimatter symmetry.</p>
+<p>Matter and antimatter annihilate immediately when they meet, so aside from creating antihydrogen, one of the key challenges for physicists is to keep antiatoms away from ordinary matter. To do so, experiments take advantage of antihydrogen&rsquo;s magnetic properties (which are similar to hydrogen&rsquo;s) and use very strong non-uniform magnetic fields to trap antiatoms long enough to study them. However, the strong magnetic field gradients degrade the spectroscopic properties of the (anti)atoms. To allow for clean high-resolution spectroscopy, the ASACUSA collaboration developed an innovative set-up to transfer antihydrogen atoms to a region where they can be studied in flight, far from the strong magnetic field.</p>
+<p>"Antihydrogen atoms having no charge, it was a big challenge to transport them from their trap. Our results are very promising for high-precision studies of antihydrogen atoms, particularly the hyperfine structure, one of the two best known spectroscopic properties of hydrogen. Its measurement in antihydrogen will allow the most sensitive test of matter/antimatter symmetry. We are looking forward to restarting this summer with an even more improved set-up," says Yasunori Yamazaki of RIKEN, Japan, a team leader of the ASACUSA collaboration. The next step for the ASACUSA experiment will be to optimize the intensity and kinetic energy of antihydrogen beams, and to understand better their quantum state.</p>
+<p>Progress with antimatter experiments at CERN has been accelerating in recent years. In 2011, the ALPHA experiment announced trapping of antihydrogen atoms for 1000 seconds and reported observation of hyperfine transitions of trapped antiatoms in 2012. In 2013, the ATRAP experiment announced the first direct measurement of the antiproton&rsquo;s magnetic moment with a fractional precision of 4.4 parts in a million.</p>
+<p>Read the paper: "<a href="http://www.nature.com/ncomms/2014/140121/ncomms4089/full/ncomms4089.html" target="_blank">A source of antihydrogen for in-flight hyperfine spectroscopy</a>" &ndash; Nature Communications</p>
+<p>Source:<a href="http://home.web.cern.ch/about/updates/2014/01/antimatter-experiment-produces-first-beam-antihydrogen" target="_blank">http://home.web.cern.ch/about/updates/2014/01/antimatter-experiment-produces-first-beam-antihydrogen</a></p>
+<p>&nbsp;</p>
+<p>以下是果壳网关于此文章的报道：</p>
+<p style="text-align: center;">CERN首次产生出反物质束流</p>
+<p>射出一束反物质束流，听起来像是科幻电影里的反派科学怪人才干得出来的事情。如今，这样的壮举已经被欧洲核子研究中心（CERN）的科学家实现了。他们制造反物质束流，可不是为了占领地球统制全人类，而是为了进一步探索新物理学，试图回答一个源自宇宙创生之初的大问题。</p>
+<p>1月21日，CERN的ASACUSA实验团队在《自然通讯》（Nature Communications）上发文宣布，他们首次成功产生出了反氢原子束流。他们在论文中报告说，明确检测到了一束由80个反氢原子构成的、长达2.7米的反物质束流。取得这一成就的科学家说，这束反物质束流或许能够帮助他们破解更深的物理学谜题：为什么我们周围的宇宙中物质随处可见，却找不到些许反物质？</p>
+<p>从理论上讲，在我们所知的宇宙创生的那一刻，宇宙大爆炸创造出来的物质和反物质，应该是等量的。但是，任何看过《星球大战》的人都会知道，物质和反物质一旦相遇，就会立即湮灭，除了一团能量，什么都不会剩下。然而，如今我们所处的宇宙完全被物质占据，反物质几乎踪迹全无。这到底是为什么呢？物理学家推测，这必定是因为物质和反物质之间，存在某种微妙的差异。</p>
+<p>此前的粒子对撞实验已经为这种差异提供了少量线索，但物理学家还是希望能够真正去研究反物质原子，从而一举解决这一谜题。迄今为止，原始的反物质还从未在宇宙中被观测到过。不过，将CERN反质子减速器（Antiproton Decelerator）产生的低能反质子，与反电子（即正电子）混合，有可能在实验装置中产生出相当数量的反氢原子。</p>
+<p>理论预言，反氢原子和氢原子的光谱应该是完全一样的。如果能够在两者之间找到任何细微差异，就将立即开启一扇通向新物理学的大门，也可能有助于解决反物质之谜。氢原子由单个质子和一个电子构成，是宇宙中存在的最简单原子，也是被研究得最精确、在现代物理学中被了解得最透彻的微观体系之一。因此，比对氢原子与反氢原子，也就成了高精度检验物质/反物质对称的最佳方式之一。</p>
+<p>问题在于，以往产生出来的反物质原子很难存在足够长的时间，我们没有机会对它们进行精细的测量。物质和反物质只要相遇，就会立即湮灭。因此，除了创造出反氢原子以外，物理学家面临的另一项关键挑战就是，让反原子远离普通物质。</p>
+<p>为了做到这一点，实验装置利用了反氢原子的磁属性（与氢原子类似），采用超强的非均匀磁场来约束反原子，将它们束缚足够长的时间加以研究。然而，强大的磁场（确切地说，是磁场的梯度）又会破坏反物质原子的光谱特性。为了获得纯净的高分辨光谱，ASACUSA团队开发了一套前所未有的装置，将反氢原子移到远离强磁场的区域，以便在它们飞行的途中细致地研究它们。</p>
+<p>&ldquo;反氢原子不带电荷，将它们移出约束阱是一项艰巨的挑战，&rdquo;日本理化学研究所的山崎泰规（Yasunori Yamazaki）说，他也是ASACUSA团队的负责人之一。&ldquo;对于反氢原子的高精度研究，特别是超精细结构研究来说，我们的结果给出了极好的前景。超精细结构是氢原子光谱中被了解得最为透彻的两个特性之一。测量反氢原子的这一特性，将为物质/反物质对称提供最为灵敏的检验。&rdquo;</p>
+<p>ASACUSA实验的下一步，将是优化反氢原子束流的强度和动能，进一步了解它们所处的量子态。山崎泰规透露，今年夏天他们将利用改进过的装置，重启这项实验。</p>
+<p>PS：单个氢原子的质量约为1.67&times;10－27千克。根据爱因斯坦的质量能方程E ＝ mc2，这束由80个反氢原子构成的束流如果全部湮灭成能量的话，将释放出2.4&times;10－8焦耳的能量&mdash;&mdash;大概相当于10粒米以每秒1厘米的速度撞到你身上所释放的动能。所以，我们暂时还不必担心《星球大战》中能够毁天灭地的反物质炸弹会成为现实。</p>
+<p>原文刊载于：【<a href="http://www.guokr.com/article/437920/" target="_blank">http://www.guokr.com/article/437920/</a>】</p>
+
+<p>本文网址:<a href="http://www.peterjiang.me/2014/01/22/antimatter-experiment-produces-first-beam-antihydrogen.html">http://www.peterjiang.me/2014/01/22/antimatter-experiment-produces-first-beam-antihydrogen.html</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.peterjiang.me/feed/comments</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item><item>
+		<title>【工具】鬼哥Csdn免积分下载（网页版）</title>
+		<link>http://www.peterjiang.me/2013/12/11/guigecsdn.html</link>
+		<comments>http://www.peterjiang.me/2013/12/11/guigecsdn.html#comments</comments>
+		<pubDate>Wed, 11 Dec 2013 16:09:18 +0000</pubDate>
+		<dc:creator>ywjnpeter</dc:creator>
+				<category><![CDATA[Tech ]]></category>
+
+
+		<guid isPermaLink="false">http://www.peterjiang.me/?p=5020653560266752</guid>
+		<description><![CDATA[经常需要下载Csdn的软件，但是由于种种原因，一时没有足够的积分。使用鬼哥开发的脚本可以免积分下载CSDN文件，在页面中直接填写文件的ID和Csdn帐户信息即可。出于安全考虑，而且一个帐户仅能获取一次积分，强烈建议你按文章最后的步骤注册一个一次性Csdn帐户进行使用。&lt;br /&gt;&lt;br /&gt;&lt;br&gt;&lt;br /&gt;&lt;br /&gt;下面先放上鬼哥Csdn的地址：&lt;a href=&quot;http://www.juming.com/Csdn/&quot;&gt;http://www.juming.com/Csdn/&lt;/a&gt;&amp;nbsp;（感谢鬼哥的辛勤劳作）&lt;br /&gt;&lt;br /&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5541/11325265805_9ffb121fab.jpg&quot; alt=&quot;guigecsdn&quot; width=&quot;500&quot; height=&quot;243&quot; /&gt;&lt;/p&gt;]]></description>
+			<content:encoded><![CDATA[<p>经常需要下载Csdn的软件，但是由于种种原因，一时没有足够的积分。使用鬼哥开发的脚本可以免积分下载CSDN文件，在页面中直接填写文件的ID和Csdn帐户信息即可。出于安全考虑，而且一个帐户仅能获取一次积分，强烈建议你按文章最后的步骤注册一个一次性Csdn帐户进行使用。</p>
+<p>下面先放上鬼哥Csdn的地址：<a href="http://www.juming.com/Csdn/" target="_blank">http://www.juming.com/Csdn/</a>&nbsp;（感谢鬼哥的辛勤劳作）</p>
+<p style="text-align: center;"><a title="Flickr 上 peter.jiang 的 guigecsdn" href="http://www.flickr.com/photos/29109689@N08/11325265805/"><img src="https://farm6.staticflickr.com/5541/11325265805_9ffb121fab.jpg" alt="guigecsdn" width="500" height="243" /></a></p>
+<blockquote>
+<p>使用方法：</p>
+<ol>
+<li>打开【<a href="http://www.fakemailgenerator.com/" target="_blank">http://www.fakemailgenerator.com/</a>】网站，将得到一个一次性的邮箱，点击邮箱地址邮编的【复制按钮】，保持页面打开；</li>
+<li>打开【<a href="https://passport.csdn.net/account/register" target="_blank">https://passport.csdn.net/account/register</a>】，填入刚才获得邮箱地址，输入昵称密码验证码进行注册；</li>
+<li>切换回【http://www.fakemailgenerator.com/】页面，这时你会看到网页上出现刚刚收到的注册验证邮件，打开它并点击激活链接；</li>
+<li>打开【<a href="https://passport.csdn.net/account/profile" target="_blank">https://passport.csdn.net/account/profile</a>】在最下面找到CSDN ID并复制它（例如：u012345678）；</li>
+<li>打开鬼哥Csdn【<a href="http://www.juming.com/Csdn/" target="_blank">http://www.juming.com/Csdn/</a>】，填入Csdn帐户、密码、验证码；</li>
+<li>在鬼哥Csdn的第一个空【下载ID】中，填入你要下载的Csdn文件网址最后的数字。（例如http://download.csdn.net/download/x356***611/<span style="color: #ff0000;">620*703</span> 文件，只需要填入最后的<span style="color: #ff0000;">620*703</span>即可，不需要复制用户名。）</li>
+<li>点击【获取下载地址】按钮，并在下方黑色方框中找到下载地址，复制后粘贴在浏览器地址栏访问即可启动下载。</li>
+</ol></blockquote>
+<p>&nbsp;</p>
+<p><span style="color: #ff0000;">请注意：本篇文章可能包含或涉及多个站外链接，本站并不对这些链接所指向网站的真实性和安全性负责，本站和这些网站并无任何关系，对这些网站的引用亦不代表本站赞同其中的任何观点或立场。本篇文章包含的站外链接请您斟酌后再访问！</span></p>
+
+<p>本文网址:<a href="http://www.peterjiang.me/2013/12/11/guigecsdn.html">http://www.peterjiang.me/2013/12/11/guigecsdn.html</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.peterjiang.me/feed/comments</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item><item>
+		<title>Guangzhou, 11/02/2013</title>
+		<link>http://www.peterjiang.me/?p=5750892489867264</link>
+		<comments>http://www.peterjiang.me/?p=5750892489867264#comments</comments>
+		<pubDate>Sun, 03 Nov 2013 08:48:36 +0000</pubDate>
+		<dc:creator>ywjnpeter</dc:creator>
+				<category><![CDATA[Peter's Life ]]></category>
+
+
+		<guid isPermaLink="false">http://www.peterjiang.me/?p=5750892489867264</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p>昨天继续去了AAF和扬爱发起的狗医生特殊儿童探访活动。狗医生依然很可爱，特殊儿童也非常聪明，只是有一些小朋友比较喜欢大叫，有一些小朋友比较不爱说话而已，别的没啥区别。BTW，有几个小孩儿我估计是去蹭狗狗玩儿的吧，长得很可爱，性格外向但很听话 -c-</p>
+<p style="text-align: center;">&nbsp;<a title="Flickr 上 peter.jiang 的 IMAG2211" href="http://www.flickr.com/photos/29109689@N08/10641168354/"><img class="aligncenter" src="https://farm3.staticflickr.com/2811/10641168354_4c774dc4ff.jpg" alt="IMAG2211" width="281" height="500" /></a></p>
+<p style="text-align: center;">这只拉布拉多叫豆豆，是我负责协助的狗医生。豆豆特别胖又喜欢吃肉，豆豆妈妈平时只给喂狗罐头不敢再让她吃肉了= =</p>
+<p style="text-align: center;">&nbsp;<a title="Flickr 上 peter.jiang 的 IMAG2212" href="http://www.flickr.com/photos/29109689@N08/10641168554/"><img class="aligncenter" src="https://farm4.staticflickr.com/3689/10641168554_b3d42b82ff.jpg" alt="IMAG2212" width="500" height="281" /></a></p>
+<p style="text-align: center;">这是另一只狗医生，叫美美还是小美还是啥我给忘了，不过特别可爱。</p>
+<p><!--more--></p>
+<p>&nbsp;</p>
+<p>后来，想着去冯如老先生当年试飞的燕塘机场看看，顺便去老先生当年坠机的地方瞻仰一番。冯如坠机处在广州大道附近的花生寮村旁的河涌边上，也就是现在军体院附近。当年的燕塘机场也就是现在军体院的操场。</p>
+<p>当时正走在花生寮大街的最北端准备进去，就在河涌入口的地方看见了疾控中心的疫情处理车，后面还跟着一团白雾，就在想是不是发生了甚麽疫情，就算没有发生疫情那一团白雾也不是啥好东西。</p>
+<p style="text-align: center;">&nbsp;<a title="Flickr 上 peter.jiang 的 IMAG2215" href="http://www.flickr.com/photos/29109689@N08/10641168894/"><img class="aligncenter" src="https://farm4.staticflickr.com/3706/10641168894_460d59d0a5.jpg" alt="IMAG2215" width="500" height="281" /></a></p>
+<p style="text-align: center;">疾控中心的疫情处理车</p>
+<p style="text-align: center;">&nbsp;<a title="Flickr 上 peter.jiang 的 IMAG2232" href="http://www.flickr.com/photos/29109689@N08/10641168904/"><img class="aligncenter" src="https://farm3.staticflickr.com/2888/10641168904_1821d52022.jpg" alt="IMAG2232" width="500" height="281" /></a></p>
+<p style="text-align: center;">车开走之后留下一片白雾</p>
+<p>本想就此作罢，但了解到这车来是因为旁边的河水流量太小自净能力太差，附近卫生条件又很糟糕，加上人流量极大，所以定期会有疾控中心的车子过来对河道及附近的路段进行消毒避免发生疫情。原来还是安全的，于是就走了进去。</p>
+<p>没走几百米就看见了冯如先生坠机的地方。首先看到的是冯如先生约两米高的人像，二级雕像，下面是个约一米多的底座。</p>
+<p style="text-align: center;">&nbsp;<a title="Flickr 上 peter.jiang 的 IMAG2222" href="http://www.flickr.com/photos/29109689@N08/10641169124/"><img src="https://farm4.staticflickr.com/3821/10641169124_bc27e09ac7.jpg" alt="IMAG2222" width="281" height="500" /></a></p>
+<p>冯如（1884～1912），字鼎三，号树恒，广东恩平人。年少时到美国做工读书。1910年在美国旧金山研制成功具有当时世界先进水平的飞机，并获国际飞机比赛第一名。随后携机回国，在燕塘创办广东飞行器制造公司，并参加辛亥革命，被时任广东都督的胡汉民任命为陆军飞机长。1912年8月25日，冯如在燕塘简易机场进行飞行表演时失事，坠机于此，伤重去世。葬于黄花岗，年仅29岁。</p>
+<p style="text-align: center;">&nbsp;<a title="Flickr 上 peter.jiang 的 IMAG2226" href="http://www.flickr.com/photos/29109689@N08/10641169444/"><img class="aligncenter" src="https://farm3.staticflickr.com/2855/10641169444_6d60a4dda2.jpg" alt="IMAG2226" width="281" height="500" /></a></p>
+<p style="text-align: center;">冯如坠机处</p>
+<p>走出来以后阴差阳错到了一个十分乡飞的地方，金沙学院。仔细看外墙上贴着的海报才知道原来是个美发学院。原来如此，难怪散发着一阵阵乡飞气息。偶然间倒是发现了旁边一栋岭南风格很明显的古建筑，原来是刘氏家庙，也就是现在天河区博物馆所在地。</p>
+<p style="text-align: center;">&nbsp;<a title="Flickr 上 peter.jiang 的 IMAG2234" href="http://www.flickr.com/photos/29109689@N08/10641622476/"><img class="aligncenter" src="https://farm4.staticflickr.com/3819/10641622476_7e2c71da2a.jpg" alt="IMAG2234" width="500" height="281" /></a></p>
+<p style="text-align: center;">&nbsp;<a title="Flickr 上 peter.jiang 的 IMAG2235" href="http://www.flickr.com/photos/29109689@N08/10641622976/"><img class="aligncenter" src="https://farm8.staticflickr.com/7302/10641622976_f72afec709.jpg" alt="IMAG2235" width="500" height="281" /></a></p>
+<p style="text-align: center;">刘氏家庙</p>
+<p>&nbsp;</p>
+
+
+<h4>相关阅读</h4>
+<ul>
+    
+    <li><a href="http://www.peterjiang.me/?p=5733953138851840">Guangzhou, 09/20/2013</a></li>
+    
+</ul>
+<p>本文网址:<a href="http://www.peterjiang.me/?p=5750892489867264">http://www.peterjiang.me/?p=5750892489867264</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.peterjiang.me/feed/comments</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item><item>
+		<title>豆瓣匠 1.3.4 下载豆瓣音乐</title>
+		<link>http://www.peterjiang.me/?p=5681726336532480</link>
+		<comments>http://www.peterjiang.me/?p=5681726336532480#comments</comments>
+		<pubDate>Sat, 28 Sep 2013 10:57:00 +0000</pubDate>
+		<dc:creator>ywjnpeter</dc:creator>
+				<category><![CDATA[Tech ]]></category>
+
+
+		<guid isPermaLink="false">http://www.peterjiang.me/?p=5681726336532480</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p>某些音乐人的音乐在豆瓣上提供了试听播放，但是在大多数音乐网站由于版权的原因无法进行试听及下载，使用 豆瓣匠 可以下载豆瓣音乐人上的音乐</p>
+<blockquote>
+<p>下载地址：<a href="http://pan.baidu.com/s/1zK500" target="_blank">http://pan.baidu.com/s/1zK500</a> &nbsp; 1.3.4版（20130520）</p>
+<p>豆瓣匠小组：<a href="http://www.douban.com/group/426789/" target="_blank">http://www.douban.com/group/426789/</a></p>
+</blockquote>
+<p>仅供交流学习之用，喜欢的音乐请购买正版。</p>
+
+<p>本文网址:<a href="http://www.peterjiang.me/?p=5681726336532480">http://www.peterjiang.me/?p=5681726336532480</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.peterjiang.me/feed/comments</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item><item>
+		<title>Guangzhou, 09/20/2013</title>
+		<link>http://www.peterjiang.me/?p=5733953138851840</link>
+		<comments>http://www.peterjiang.me/?p=5733953138851840#comments</comments>
+		<pubDate>Fri, 20 Sep 2013 16:14:42 +0000</pubDate>
+		<dc:creator>ywjnpeter</dc:creator>
+				<category><![CDATA[Peter's Life ]]></category>
+
+
+		<guid isPermaLink="false">http://www.peterjiang.me/?p=5733953138851840</guid>
+		<description><![CDATA[广州旧城&lt;p&gt;等有空了再好好拍，这些都是手机拍的，看个感觉吧。转载请务必著名出处，老蒋。&lt;p&gt;Yuangang&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5480/11309651754_938387dc5c.jpg&quot; width=&quot;281&quot; height=&quot;500&quot; alt=&quot;元岗村的一头&quot;&gt;&lt;p&gt;]]></description>
+			<content:encoded><![CDATA[<p>广州旧城</p>
+<p>等有空了再好好拍，这些都是手机拍的，看个感觉吧。转载请务必著名出处，老蒋。</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">Yuangang</p>
+<p style="text-align: center;"><a title="Flickr 上 peter.jiang 的 元岗村的一头" href="http://www.flickr.com/photos/29109689@N08/11309651754/"><img src="https://farm6.staticflickr.com/5480/11309651754_938387dc5c.jpg" alt="元岗村的一头" width="281" height="500" /></a></p>
+<p style="text-align: center;">元岗村的一头</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><a title="Flickr 上 peter.jiang 的 元岗村外三位女子在看招聘广告牌" href="http://www.flickr.com/photos/29109689@N08/11309651386/"><img src="https://farm4.staticflickr.com/3684/11309651386_75027cd6dd.jpg" alt="元岗村外三位女子在看招聘广告牌" width="281" height="500" /></a></p>
+<p style="text-align: center;">元岗村外三位女子在看招聘广告牌</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Yangji</p>
+<p style="text-align: center;"><a title="Flickr 上 peter.jiang 的 杨箕村，旧城改造已经开始" href="http://www.flickr.com/photos/29109689@N08/11309651676/"><img src="https://farm6.staticflickr.com/5482/11309651676_024c4e51f4.jpg" alt="杨箕村，旧城改造已经开始" width="500" height="281" /></a></p>
+<p style="text-align: center;">杨箕村，旧城改造已经开始</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Xiancun</p>
+<p style="text-align: center;"><a title="Flickr 上 peter.jiang 的 冼村中的旧楼，其中不乏危楼" href="http://www.flickr.com/photos/29109689@N08/11309651686/"><img src="https://farm6.staticflickr.com/5538/11309651686_9eedcfa3ba.jpg" alt="冼村中的旧楼，其中不乏危楼" width="500" height="281" /></a></p>
+<p style="text-align: center;">冼村中的旧楼，其中不乏危楼</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><a title="Flickr 上 peter.jiang 的 冼村中的危楼" href="http://www.flickr.com/photos/29109689@N08/11309651876/"><img src="https://farm6.staticflickr.com/5519/11309651876_14ae27138b.jpg" alt="冼村中的危楼" width="281" height="500" /></a></p>
+<p style="text-align: center;">冼村中的危楼</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><a title="Flickr 上 peter.jiang 的 冼村也即将开始旧城改造" href="http://www.flickr.com/photos/29109689@N08/11309652236/"><img src="https://farm8.staticflickr.com/7434/11309652236_32f6110272.jpg" alt="冼村也即将开始旧城改造" width="298" height="500" /></a></p>
+<p style="text-align: center;">冼村也即将开始旧城改造</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><a title="Flickr 上 peter.jiang 的 即将开始旧城改造的冼村" href="http://www.flickr.com/photos/29109689@N08/11309652266/"><img src="https://farm4.staticflickr.com/3767/11309652266_68b7bfe688.jpg" alt="即将开始旧城改造的冼村" width="500" height="281" /></a></p>
+<p style="text-align: center;">即将开始旧城改造的冼村</p>
+<p style="text-align: center;">&nbsp;</p>
+
+
+<h4>相关阅读</h4>
+<ul>
+    
+    <li><a href="http://www.peterjiang.me/?p=5750892489867264">Guangzhou, 11/02/2013</a></li>
+    
+</ul>
+<p>本文网址:<a href="http://www.peterjiang.me/?p=5733953138851840">http://www.peterjiang.me/?p=5733953138851840</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.peterjiang.me/feed/comments</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item><item>
+		<title>华南理工大学学习资料（部分配套清华教材或其他高校教材）</title>
+		<link>http://www.peterjiang.me/?p=5629499534213120</link>
+		<comments>http://www.peterjiang.me/?p=5629499534213120#comments</comments>
+		<pubDate>Thu, 08 Aug 2013 10:15:29 +0000</pubDate>
+		<dc:creator>ywjnpeter</dc:creator>
+				<category><![CDATA[Peter's Life ]]></category>
+
+
+		<guid isPermaLink="false">http://www.peterjiang.me/?p=5629499534213120</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p>老蒋私人整理，收集各方信息，自动化专业可以直接使用，别专业遇见相同课程也可以使用，其他学校使用时注意看课本出版社，有些课程为华工出版社出版。不断更新中。</p>
+<p>父目录为各科文件列表可供分文件挑选下载，子目录一般为打包好的压缩文件可供批量下载。</p>
+<p>另：老蒋还有托福资料若干，体积太大加上网络上流传很广，不在此处上传，需要可以私信老蒋。</p>
+<p>更新：由于部分资料中包含任课教师的私人联系资料，部分资料已经删除或重新上传，如果点击需要的资料提示文件已经删除，请尝试进入父目录，在父目录中找到最新版本。</p>
+<p>总目录：<a href="http://pan.baidu.com/s/1sjloUq5" target="_blank">http://pan.baidu.com/s/1sjloUq5</a></p>
+<p>高等数学：<a href="http://pan.baidu.com/s/1pJwOpDL" target="_blank">http://pan.baidu.com/s/1pJwOpDL</a></p>
+<p>马哲：<a href="http://pan.baidu.com/s/1mgr4MXM" target="_blank">http://pan.baidu.com/s/1mgr4MXM</a></p>
+<p><a href="http://pan.baidu.com/s/1mgr4MXM" target="_blank"></a>近代史：<a href="http://pan.baidu.com/s/1bnndwXT" target="_blank">http://pan.baidu.com/s/1bnndwXT</a></p>
+<p>计算机导论：<a href="http://pan.baidu.com/s/1kTkfpgN" target="_blank">http://pan.baidu.com/s/1kTkfpgN</a></p>
+<p>自动控制原理：<a href="http://pan.baidu.com/share/link?shareid=1986811789&amp;uk=2919553432">http://pan.baidu.com/s/1hqgh7LU</a></p>
+<p>线性代数：<a href="http://pan.baidu.com/s/1jGiLwXK" target="_blank">http://pan.baidu.com/s/1jGiLwXK</a></p>
+<p>积分变换：<a href="http://pan.baidu.com/s/1dDvMK6H" target="_blank">http://pan.baidu.com/s/1dDvMK6H</a></p>
+<p>科技伦理与工程伦理：<a href="http://pan.baidu.com/s/1eQrGV0e" target="_blank">http://pan.baidu.com/s/1eQrGV0e</a></p>
+<p>电路实验：<a href="http://pan.baidu.com/s/1sjucywX" target="_blank">http://pan.baidu.com/s/1sjucywX</a></p>
+<p>电路：<a href="http://pan.baidu.com/s/1sjPQ2JV" target="_blank">http://pan.baidu.com/s/1sjPQ2JV</a></p>
+<p>电拖：<a href="http://pan.baidu.com/s/1c0CJMbY" target="_blank">http://pan.baidu.com/s/1c0CJMbY</a></p>
+<p>毛概：<a href="http://pan.baidu.com/s/1bn1W1jx" target="_blank">http://pan.baidu.com/s/1bn1W1jx</a></p>
+<p>模电实验：<a href="http://pan.baidu.com/s/1gdknxEN" target="_blank">http://pan.baidu.com/s/1gdknxEN</a></p>
+<p><a href="http://pan.baidu.com/s/1gdknxEN" target="_blank"></a>模电：<a href="http://pan.baidu.com/s/1bnxSGtL" target="_blank">http://pan.baidu.com/s/1bnxSGtL</a></p>
+<p>概率论：<a href="http://pan.baidu.com/s/1i3C98Jb">http://pan.baidu.com/s/1i3C98Jb</a></p>
+<p>数电：<span style="color: #0000ee;"><span style="text-decoration: underline;"><a href="http://pan.baidu.com/s/1F5Fm2" target="_blank">http://pan.baidu.com/s/1F5Fm2</a></span></span></p>
+<p>思修：<a href="http://pan.baidu.com/s/1ntBL48p" target="_blank">http://pan.baidu.com/s/1ntBL48p</a></p>
+<p>当代文化批评：<a href="http://pan.baidu.com/s/1kTn3bQR" target="_blank">http://pan.baidu.com/s/1kTn3bQR</a></p>
+<p>大学物理：<a href="http://pan.baidu.com/s/1gdvcH95" target="_blank">http://pan.baidu.com/s/1gdvcH95</a></p>
+<p>大学德语：<a href="http://pan.baidu.com/s/1kT5JRaJ" target="_blank">http://pan.baidu.com/s/1kT5JRaJ</a></p>
+<p>复变函数：<a href="http://pan.baidu.com/s/1sjsGz6X" target="_blank">http://pan.baidu.com/s/1sjsGz6X</a></p>
+<p>军事理论：<a href="http://pan.baidu.com/s/1pJBHwwz" target="_blank">http://pan.baidu.com/s/1pJBHwwz</a></p>
+<p>中国文学与文化：<span style="color: #0000ee;"><span style="text-decoration: underline;"><a href="http://pan.baidu.com/s/1bncTWn1" target="_blank">http://pan.baidu.com/s/1bncTWn1</a></span></span></p>
+<p>微机原理：<span style="color: #0000ee;"><span style="text-decoration: underline;"><a href="http://pan.baidu.com/s/1i3A7HVR" target="_blank">http://pan.baidu.com/s/1i3A7HVR</a></span></span></p>
+<p>现代控制理论：<a href="http://pan.baidu.com/s/1mgNsNXI" target="_blank">http://pan.baidu.com/s/1mgNsNXI</a></p>
+<p>微机原理实验：<a href="http://pan.baidu.com/s/1ntE3r77" target="_blank">http://pan.baidu.com/s/1ntE3r77</a></p>
+<p>自动检测：<a href="http://pan.baidu.com/s/1qWv0v28" target="_blank">http://pan.baidu.com/s/1qWv0v28</a></p>
+<p>过程控制：<a href="http://pan.baidu.com/s/1sjCtqwd" target="_blank">http://pan.baidu.com/s/1sjCtqwd</a></p>
+<p>电力电子变流技术：<a href="http://pan.baidu.com/s/1ntDJ0iH" target="_blank">http://pan.baidu.com/s/1ntDJ0iH</a></p>
+<p>电力电子实验：<a href="http://pan.baidu.com/s/1jGn5bs6" target="_blank">http://pan.baidu.com/s/1jGn5bs6</a></p>
+<p>电力电子基础：<a href="http://pan.baidu.com/s/1c0u2Qbu" target="_blank">http://pan.baidu.com/s/1c0u2Qbu</a></p>
+<p>电磁场：<a href="http://pan.baidu.com/s/1hqh36Mo" target="_blank">http://pan.baidu.com/s/1hqh36Mo</a></p>
+<p>计算机网络与通信技术：<a href="http://pan.baidu.com/s/1eQf5IP8" target="_blank">http://pan.baidu.com/s/1eQf5IP8</a></p>
+<p>计算机控制技术：<a href="http://pan.baidu.com/s/1qW2lTxU" target="_blank">http://pan.baidu.com/s/1qW2lTxU</a></p>
+<p>电气控制与PLC：<a href="http://pan.baidu.com/s/1gdkTv0J" target="_blank">http://pan.baidu.com/s/1gdkTv0J</a></p>
+<p>运动控制系统：<a href="http://pan.baidu.com/s/1i3qoUMx" target="_blank">http://pan.baidu.com/s/1i3qoUMx</a></p>
+<p>单片机原理及其接口技术：<a href="http://pan.baidu.com/s/1i33MeED" target="_blank">http://pan.baidu.com/s/1i33MeED</a></p>
+<p>过程控制工程：<a href="http://pan.baidu.com/s/1kTqkRI3" target="_blank">http://pan.baidu.com/s/1kTqkRI3</a></p>
+
+<h4>相关阅读</h4>
+<ul>
+    
+    <li><a href="http://www.peterjiang.me/2013/06/29/scut.html">华南理工大学 贵州老乡会 贵阳老乡会</a></li>
+    
+</ul>
+<p>本文网址:<a href="http://www.peterjiang.me/?p=5629499534213120">http://www.peterjiang.me/?p=5629499534213120</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.peterjiang.me/feed/comments</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
